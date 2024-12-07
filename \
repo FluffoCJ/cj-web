@@ -2,17 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #231d2e;
-}
-
-a {
-    color: #9B30FF;
-    text-decoration: none;
+    background-color: #f4f4f4;
 }
 
 header {
-    background-color: #433363;
-    color: #CB9DF0;
+    background-color: #333;
+    color: pink;
     padding: 1em;
     text-align: center;
 }
@@ -36,8 +31,7 @@ section {
     padding: 2em;
     margin: 1em;
     font-size: 20px;
-    background-color: #624E88;
-    color: #E6E6FA;
+    background-color: #1e2e9e;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
